@@ -1,0 +1,101 @@
+Version 3
+// entity 0
+{
+"classname" "worldspawn"
+"frame" "1"
+// primitive 0
+{
+ brushDef3
+ {
+  ( 0 -1 0 504 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5b"
+  ( -1 0 0 -248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5b"
+  ( 0 1 0 -512 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5b"
+  ( 1 0 0 -248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5b"
+  ( 0 0 1 -128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5b"
+  ( 0 0 -1 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5b"
+ }
+}
+// primitive 1
+{
+ brushDef3
+ {
+  ( 0 0 1 -136 ) ( ( 0.0078125 0 0 ) ( 0 0.015625 0 ) ) "textures/common_floors/c_ceiling_3"
+  ( 0 -1 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.015625 0 ) ) "textures/common_floors/c_ceiling_3"
+  ( 1 0 0 -248 ) ( ( 0.0078125 0 0 ) ( 0 0.015625 0 ) ) "textures/common_floors/c_ceiling_3"
+  ( 0 1 0 -504 ) ( ( 0.0078125 0 0 ) ( 0 0.015625 0 ) ) "textures/common_floors/c_ceiling_3"
+  ( -1 0 0 -248 ) ( ( 0.0078125 0 0 ) ( 0 0.015625 0 ) ) "textures/common_floors/c_ceiling_3"
+  ( 0 0 -1 128 ) ( ( 0.0078125 0 0 ) ( 0 0.015625 0 ) ) "textures/common_floors/c_ceiling_3"
+ }
+}
+// primitive 2
+{
+ brushDef3
+ {
+  ( 0 0 1 0 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) "textures/common_misc/concrete05"
+  ( -1 0 0 -256 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) "textures/common_misc/concrete05"
+  ( 0 1 0 -512 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) "textures/common_misc/concrete05"
+  ( 1 0 0 -256 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) "textures/common_misc/concrete05"
+  ( 0 -1 0 0 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) "textures/common_misc/concrete05"
+  ( 0 0 -1 -8 ) ( ( 0.00390625 0 0 ) ( 0 0.00390625 0 ) ) "textures/common_misc/concrete05"
+ }
+}
+// primitive 3
+{
+ brushDef3
+ {
+  ( 0 0 -1 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 0 1 -128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 -1 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 1 0 -512 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( -1 0 0 -256 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 1 0 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+ }
+}
+// primitive 4
+{
+ brushDef3
+ {
+  ( 0 0 -1 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 0 1 -128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 -1 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 1 0 0 -248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( -1 0 0 -248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 1 0 -8 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+ }
+}
+// primitive 5
+{
+ brushDef3
+ {
+  ( -1 0 0 248 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 1 0 -512 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 1 0 0 -256 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 -1 0 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 0 1 -128 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+  ( 0 0 -1 0 ) ( ( 0.0078125 0 0 ) ( 0 0.0078125 0 ) ) "textures/common_walls/ba_wall1_5c"
+ }
+}
+}
+// entity 1
+{
+"classname" "info_player_start"
+"name" "info_player_start_1"
+"origin" "-120 408 16"
+"rotation" "1 0 0 0 1 0 0 0 1"
+"frame" "21"
+}
+// entity 2
+{
+"anim" "idle"
+"classname" "monster_grunt"
+"name" "monster_grunt_1"
+"origin" "120 360 32"
+"frame" "6"
+}
+// entity 3
+{
+"classname" "light"
+"name" "light_1"
+"origin" "0 248 120"
+"_color" "0.309804 0.823529 0.760784"
+}

@@ -1,0 +1,123 @@
+DewmAAS "1.08"
+
+524288
+
+settings
+{
+	bboxes
+	{
+		(-16 -16 0)-(16 16 80)
+	}
+	usePatches = 0
+	writeBrushMap = 0
+	playerFlood = 1
+	allowSwimReachabilities = 0
+	allowFlyReachabilities = 1
+	generateAllFaces = 0
+	generateTacticalFeatures = 1
+	fileExtension = "aas32"
+	gravity = (0 0 -1050)
+	maxStepHeight = 16
+	maxBarrierHeight = 0
+	maxWaterJumpHeight = 0
+	maxFallHeight = 0
+	minFloorCos = 0.6999999881
+	tt_barrierJump = 100
+	tt_startCrouching = 100
+	tt_waterJump = 100
+	tt_startWalkOffLedge = 100
+}
+planes 24 {
+	0 ( 1 0 0 0 )
+	1 ( -1 0 0 0 )
+	2 ( 0 1 0 0 )
+	3 ( 0 -1 0 0 )
+	4 ( 0 0 1 0 )
+	5 ( 0 0 -1 0 )
+	6 ( 1 0 0 232 )
+	7 ( -1 0 0 -232 )
+	8 ( 0 1 0 488 )
+	9 ( 0 -1 0 -488 )
+	10 ( 0 0 1 48 )
+	11 ( 0 0 -1 -48 )
+	12 ( 0 1 0 24 )
+	13 ( 0 -1 0 -24 )
+	14 ( 1 0 0 -232 )
+	15 ( -1 0 0 232 )
+	16 ( 0 0 1 128 )
+	17 ( 0 0 -1 -128 )
+	18 ( 0 1 0 520 )
+	19 ( 0 -1 0 -520 )
+	20 ( 1 0 0 264 )
+	21 ( -1 0 0 -264 )
+	22 ( 1 0 0 -264 )
+	23 ( -1 0 0 264 )
+}
+vertices 4 {
+	0 ( 232 24 0 )
+	1 ( -232 24 0 )
+	2 ( -232 488 0 )
+	3 ( 232 488 0 )
+}
+edges 5 {
+	0 ( 0 0 )
+	1 ( 0 1 )
+	2 ( 1 2 )
+	3 ( 3 2 )
+	4 ( 3 0 )
+}
+edgeIndex 4 {
+	0 ( 1 )
+	1 ( 2 )
+	2 ( -3 )
+	3 ( 4 )
+}
+faces 7 {
+	0 ( 0 0 0 0 0 0 )
+	1 ( 11 1 1 0 0 0 )
+	2 ( 9 1 1 0 0 0 )
+	3 ( 4 4 1 0 0 4 )
+	4 ( 14 1 1 0 0 0 )
+	5 ( 12 1 1 0 0 0 )
+	6 ( 7 1 1 0 0 0 )
+}
+faceIndex 6 {
+	0 ( 1 )
+	1 ( 2 )
+	2 ( 3 )
+	3 ( 4 )
+	4 ( 5 )
+	5 ( 6 )
+}
+areas 2 {
+	0 ( 0 0 0 0 0 0 0 0 ) 0 {
+	}
+	1 ( 65 0 0 6 1 0 0 0 ) 0 {
+	}
+}
+nodes 15 {
+	0 ( 0 0 0 )
+	1 ( 0 2 8 )
+	2 ( 2 3 0 )
+	3 ( 4 4 0 )
+	4 ( 7 5 0 )
+	5 ( 9 6 0 )
+	6 ( 11 7 0 )
+	7 ( 12 -1 0 )
+	8 ( 2 9 0 )
+	9 ( 4 10 0 )
+	10 ( 16 0 11 )
+	11 ( 14 12 0 )
+	12 ( 9 13 0 )
+	13 ( 12 14 0 )
+	14 ( 11 -1 0 )
+}
+portals 1 {
+	0 ( 0 0 0 0 0 )
+}
+portalIndex 0 {
+}
+clusters 2 {
+	0 ( 0 0 0 0 )
+	1 ( 1 1 0 0 )
+}
