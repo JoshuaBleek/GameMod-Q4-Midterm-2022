@@ -7,13 +7,13 @@ Enimies do indeed path towards tower!
 **10 Towers Based on Quake weapons:**
 I made towers but they are not based off Quake weaposns and are instead based off of Quake marines.
 
-**6 Skill Tree for Player**
+**6 Skill Tree for Player:**
 Work in progress!
 
-**Loot Drops**
+**Loot Drops:**
 The enimies do not necesarily drop loot but when you kill enemies you will accumulate currency
 
-**Towers should be upgradable**
+**Towers should be upgradable:**
 The towers are upgradable with currency 
 
 **Common Deliverables:**
